@@ -1,6 +1,6 @@
 # Blackjack ARM Mbed 
 
-Blackjack game for the online ARM Mbed simulator. The game was developet during the pandemic by as a task at [Faculty of Electrical Egineering Sarajevo](http://www.etf.unsa.ba/)
+Blackjack game for the online ARM Mbed simulator. The game was developet during the pandemic as a task at [Faculty of Electrical Egineering Sarajevo](http://www.etf.unsa.ba/)
 
 **Video:** 
 <br/>
